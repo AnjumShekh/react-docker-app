@@ -22,7 +22,7 @@ function ContactForm() {
 
   return (
     <div className="container mt-5" style={{ maxWidth: "600px" }}>
-      <h2 className="mb-4">Contact Us</h2>
+      <h2 className="mb-4">Contact Us(Anjum + Javed)</h2>
       {submitted ? (
         <div className="alert alert-success">Thank you for your message!</div>
       ) : (
